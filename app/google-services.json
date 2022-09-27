@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "963889339340",
+    "project_id": "localnotification-dc53b",
+    "storage_bucket": "localnotification-dc53b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963889339340:android:e3418c2f0c9c7a0ab05b69",
+        "android_client_info": {
+          "package_name": "com.example.gd6_c_0557"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "963889339340-onmcrpnr42b3gu1ppf2hn9jshfm3b0rq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBii2mGixhKOW_gM3LPJpwrVv0gdSvgzjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "963889339340-onmcrpnr42b3gu1ppf2hn9jshfm3b0rq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
